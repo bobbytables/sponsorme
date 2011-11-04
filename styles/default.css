@@ -10,6 +10,13 @@ body {
 	border: #BBB 1px solid;
 }
 
+.box_big {
+	height: 400px;
+	background: #FFF;
+	padding: 10px;
+	border: #BBB 1px solid;
+}
+
 a {
 	color: #009900;
 	text-decoration: none;
