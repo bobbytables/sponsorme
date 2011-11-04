@@ -1,0 +1,29 @@
+body {
+	background: #ECECEC;
+	font-family: "Helvetica Neue";
+}
+
+.box {
+	background: #FFF;
+	padding: 10px;
+	height: 200px;
+	border: #BBB 1px solid;
+}
+
+a {
+	color: #E1A85B;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+span.big_number {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E1A85B;
+	margin-right: 10px;
+	display: inline;
+	line-height: 30px;
+}
